@@ -6,5 +6,7 @@ I’m currently learning Python 🐍, Django, Flask, FastAPI, PostgreSQL, Linux 
 
 I started putting my projects on Github 😅 
 
+Learn more about me here
+https://kurek.up.railway.app/
 Feel free to contact me 📨
 
