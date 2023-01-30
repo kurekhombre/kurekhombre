@@ -9,7 +9,6 @@ I started putting my projects on Github 😅
 Learn more about me here
 
 https://kurek.up.railway.app/
-Website only works the first 22 days of the month because of Railway's resource limits
 
 Feel free to contact me 📨
 
