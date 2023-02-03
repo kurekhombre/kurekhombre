@@ -6,9 +6,5 @@ I’m currently learning Python 🐍, Django, JavaScript, Vue, PostgreSQL, Linux
 
 I started putting my projects on Github 😅 
 
-Learn more about me here
-
-https://kurek.up.railway.app/
-
 Feel free to contact me 📨
 
