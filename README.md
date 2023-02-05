@@ -7,4 +7,3 @@ I’m currently learning Python 🐍, Django, JavaScript, Vue, PostgreSQL, Linux
 I started putting my projects on Github 😅 
 
 Feel free to contact me 📨
-
