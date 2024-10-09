@@ -11,9 +11,9 @@ I'm a **Junior Data Engineer** and **SAS Consultant** with a deep interest in te
 I always enjoy testing new ideas, and my personal projects reflect my curiosity for scalable systems and efficient workflows:
 
 - **[Library Management System](https://github.com/kurekhombre/Library)**: A robust system built using Python, MS SQL, FastAPI, and Docker, with an ETL pipeline that efficiently handles data operations.
-- 
+
 - **[Air Pollution Monitoring Platform](https://github.com/kurekhombre/AirPollution)**: An advanced data processing platform using BigQuery, Databricks, and GCP, designed to monitor and analyze air quality data at scale.
-- 
+  
 - **[myShop](https://github.com/kurekhombre/myShop)**: Simple shop using Django builded with Tailwind CSS & HTMX and Stripe payment processing.
 
 
